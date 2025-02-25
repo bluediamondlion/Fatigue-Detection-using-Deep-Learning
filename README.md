@@ -11,10 +11,10 @@ This repository contains a project based on the research to detect fatigue level
 The complexities of fatigue have drawn much attention from researchers across various disciplines. Short-term fatigue may cause safety issue while driving; thus, dynamic systems were designed to track driver fatigue. Longterm fatigue could lead to chronic syndromes, and eventually affect individuals physical and psychological health. Traditional methodologies of evaluating fatigue not only require sophisticated equipment but also consume enormous time.
 
 <p align="center">
-<img src="first.png" height="200" >
+<img src="https://github.com/bluediamondlion/Fatigue-Detection-using-Deep-Learning/blob/main/static/first.PNG" height="200" >
 </p>
 <p align="center">
-<img src="static/result.png" height="600" >
+<img src="https://github.com/bluediamondlion/Fatigue-Detection-using-Deep-Learning/blob/main/static/result.PNG" height="600" >
 </p>
 ### Our Proposal
 In this project, we attempt to develop a novel and efﬁcient method to predict individual’s fatigue rate by scrutinising human facial cues. Our goal is to predict fatigue rate based on a single photo. Our work represents a promising way to assess sleep-deprived fatigue, and our project will provide a viable and efﬁcient computational framework for user fatigue modelling in large-scale.
