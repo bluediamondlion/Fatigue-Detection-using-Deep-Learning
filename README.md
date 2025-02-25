@@ -11,7 +11,7 @@ This repository contains a project based on the research to detect fatigue level
 The complexities of fatigue have drawn much attention from researchers across various disciplines. Short-term fatigue may cause safety issue while driving; thus, dynamic systems were designed to track driver fatigue. Longterm fatigue could lead to chronic syndromes, and eventually affect individuals physical and psychological health. Traditional methodologies of evaluating fatigue not only require sophisticated equipment but also consume enormous time.
 
 <p align="center">
-<img src="static/first.png" height="200" >
+<img src="first.png" height="200" >
 </p>
 <p align="center">
 <img src="static/result.png" height="600" >
