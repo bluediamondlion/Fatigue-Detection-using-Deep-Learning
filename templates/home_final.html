@@ -80,7 +80,6 @@
         </div>
     </div>
     <div class="big">
-        <img id="fupld" src="#" alt="Uploaded file" width="250px" height="250px" style=' position: relative; left: 380px; width:350px;height: 250px;border: 1px solid white;' />
         <form action="{{ url_for('apicall') }}" method="POST" enctype="multipart/form-data">
             <h3 align="center">Enter Your Image Here</h3>
             <input type="file" name="pic" id="pic" accept="image/*" onchange="readURL(this); " style=" position: relative; left: 380px;">
